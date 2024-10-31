@@ -1,0 +1,11 @@
+NO ./textures/purple.xpm
+SO ./textures/blue.xpm
+WE ./textures/red.xpm
+EA ./textures/green.xpm
+F 220,100,0
+D 225,30,0
+111111
+100101
+101001
+1100N1
+111111
